@@ -1,0 +1,10 @@
+data/
+data_synthetic/
+outputs*/
+models*/
+*.joblib
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.vscode/
