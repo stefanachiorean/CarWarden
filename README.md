@@ -14,6 +14,7 @@ two-layer explanation, Rich CLI, honest evaluation), applied to automotive data.
 
 ![Dashboard: incidents](docs/dashboard-incidents.png)
 ![Terminal report](docs/cli-report.png)
+![Terminal report: flagged incidents with explanations](docs/cli-incidents.png)
 
 ## What it does
 
